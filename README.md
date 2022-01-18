@@ -12,5 +12,5 @@ In the project directory, you can run:
 Had to change couple of things during the tutorial 
 - init git in the server directory
 - there is ommited file called config.env which you will need to add the line
-### ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/myFirstDatabase?retryWrites=true&w=majorityPORT=5000
+### ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.<your code here>.mongodb.net/myFirstDatabase?retryWrites=true&w=majorityPORT=5000
 - 
